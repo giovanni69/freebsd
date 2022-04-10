@@ -1,1 +1,3 @@
 # Packages needed for my laptop
+drm-fbsd13-kmod
+xf86-video-intel
