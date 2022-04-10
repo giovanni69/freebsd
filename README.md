@@ -1,2 +1,2 @@
-# freebsd
-Configuration files for my Freebsd notebook
+# FreeBSD-13.0
+Configuration files for my FreeBSD laptop
