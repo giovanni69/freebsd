@@ -1,6 +1,6 @@
-# For KDE 
+#For KDE 
 #exec ck-launch-session startplasma-x11
 
-# For XFCE
+#For XFCE
 #setxkbmap it
 #exec startxfce4 --with-ck-launch
